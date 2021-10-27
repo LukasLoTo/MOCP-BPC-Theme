@@ -1,0 +1,39 @@
+# usable colors: 
+# FOREGOUND_COLOR and BACKGROUND_COLOR can have one of the following values:
+# black, red, green, yellow, blue, magenta, cyan, white, default (can be
+# transparent), grey (not standard, but works)
+background		= black		black
+frame			= white		black
+window_title		= cyan		black bold
+directory		= magenta		black bold
+selected_directory	= cyan		magenta	bold
+playlist		= magenta		black bold
+selected_playlist	= magenta		black	bold
+file			= magenta		black bold
+selected_file		= yellow		black bold
+marked_file		= magenta		black	bold
+marked_selected_file	= yellow		black	bold
+info			= magenta		black	bold 
+selected_info		= yellow		black	bold
+marked_info		= magenta		black	bold
+marked_selected_info	= yellow		black	bold
+status			= magenta		black bold
+title			= magenta		black	bold
+state			= magenta		black	bold
+current_time		= yellow		black	bold
+time_left		= yellow		black	bold
+total_time		= yellow		black	bold
+time_total_frames	= yellow		black bold
+sound_parameters	= yellow		black	bold
+legend			= yellow		black
+disabled		= black		black	bold
+enabled			= yellow		black	bold
+empty_mixer_bar		= magenta		black bold
+filled_mixer_bar	= cyan		magenta bold
+empty_time_bar		= yellow		black
+filled_time_bar		= yellow		yellow
+entry			= yellow		black
+entry_title		= yellow		black
+error			= cyan		black	bold
+message			= cyan		black	bold
+plist_time		= cyan		magenta bold
